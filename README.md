@@ -12,7 +12,6 @@ There is webpage in which ***Google map*** configured and using Lumen APIs draw 
 ## Configuration Instructions
 
 1- WEB PAGE
------------
 > If you run lumen APIs other then http://localhost:8000/ than try to change `Var api_url` inside **function.js** for webpage.
 File path = webpage/js/function.js
 -------------------------------
